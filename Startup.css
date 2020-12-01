@@ -1,0 +1,36 @@
+body{
+	background-image: url(Background_Image.jpg);
+	background-size: cover;
+}
+
+
+h1{
+	text-align: center;
+	margin-top: 300px;
+}
+
+
+button{
+  align-content: center;
+  margin-left: 500px;
+}
+
+h4{
+	color: black;
+}
+
+
+.btn-primary{
+	background-color: grey;
+}
+
+
+
+.a{
+	text-decoration-color: black;
+}
+
+/*
+.button{
+
+}*/
